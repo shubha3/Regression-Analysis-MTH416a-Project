@@ -32,3 +32,5 @@ the same result as our full model using only lesser number of regressors. To sum
 ------
 
 Detailed Project report can be found [here](https://github.com/shubha3/Regression-Analysis-MTH416a-Project/blob/main/Group%205-%20Regression%20Analysis-%20Project%20Report.pdf).
+
+A presentation on the project can be found [here](https://github.com/shubha3/Regression-Analysis-MTH416a-Project/blob/main/Group%205-%20Regression%20Analyis-%20Project%20Presentation.pptx).
